@@ -1,7 +1,7 @@
 # Pulmonary-Embolism-Detection-System
 # 肺栓塞检测系统
 
-url:http://111.42.74.240:7861/
+- Address:http://111.42.74.240:7861/
 
 After entering the platform interface, the file upload area is on the left. The supported file format for upload is `.nii.gz`.
 - **Clear**: Delete the uploaded files.
