@@ -5,7 +5,9 @@ After entering the platform interface, the file upload area is on the left. The 
 - **Clear**: Delete the uploaded files.
 - **Submit**: Submit the uploaded files for pulmonary embolism prediction.
 After submission, wait for the prediction results (it takes approximately 5 - 10 minutes).
-The prediction results include: the possible areas of pulmonary embolism in the form of images and the probability of pulmonary embolism in text form.
+The prediction results include:
+- The possible areas of pulmonary embolism in the form of images.
+- The probability of pulmonary embolism in text form.
 
 
 进入平台界面后左侧为文件上传区域，上传文件格式为 `.nii.gz`；  
