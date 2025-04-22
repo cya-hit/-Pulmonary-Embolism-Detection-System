@@ -20,3 +20,5 @@ After submission, wait for the prediction results (it takes approximately 5 - 10
 预测结果为：  
 - 图片形式的肺栓塞可能区域；  
 - 文字形式的肺栓塞概率。
+![f2c51c214551f040fffaf87c32ded6c](https://github.com/user-attachments/assets/f0d0244a-c618-4713-8147-8f93c88c209e)
+![c488888a9b1f78f87912796de271acf](https://github.com/user-attachments/assets/316ef7cd-f256-487c-8e5f-41ea2a8302bd)
